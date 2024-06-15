@@ -1,8 +1,0 @@
-
-only in pdf format documnegt
-in one folder with project name
-make subfolder with phases name
-then files with the sections under each folder only pdf formats
-except in project executable files
-
-all submissions are individual
